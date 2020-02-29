@@ -1,0 +1,17 @@
+.blk
+{
+    padding: 30px;
+    border: 1px solid blue;
+    background-color: powderblue;
+    display: inline-block;
+    width: 25%;
+    border-width: 3px;
+    margin: 20px;
+    
+}
+.fir{
+    font-weight: bold;
+}
+.blk div{
+    margin-bottom: 15px;
+}
